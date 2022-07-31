@@ -24,7 +24,7 @@ function App() {
       </p>
       <p>
         <a
-          href="https://thegraph.com/hosted-service/subgraph/olofens/glpusdc?query=Default"
+          href="https://github.com/olofens/glpusdc-frontend"
           target="_blank"
           rel="noreferrer"
         >
